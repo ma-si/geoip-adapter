@@ -1,0 +1,9 @@
+future-release=0.2.0
+user=ma-si
+project=geoip-adapter
+header-label=# Change Log
+bugs-label=**Fixed bugs :beetle:**
+enhancement-label=**New features :star2:**
+issues-label=**Closed issues**
+pr-label=**Merged pull requests :twisted_rightwards_arrows:**
+unreleased-label=**Unreleased**
